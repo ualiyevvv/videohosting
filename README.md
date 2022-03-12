@@ -1,4 +1,10 @@
 <a href="http://videohostingapp.herokuapp.com/">DEMO</a>
+## Features:
+- CRUD  
+- Sending email
+- Laravel Sessions
+- Restriction on Roles (access to Admin Panel {login: admin@admin.ru ; password: 123})
+- Deploy a project on Heroku
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
