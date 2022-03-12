@@ -1,0 +1,33 @@
+.newvideo {
+    z-index: 2;
+    position: fixed;
+    bottom: 85px;
+    right: 45px;
+}
+
+.newvideo div {
+    width: 64px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+}
+
+.comments__info {
+    display: flex;
+    justify-content: space-between;
+}
+.comments__item-author, .comments__item-text {
+    font-size: 17px;
+}
+.comments__item-date {
+    font-size: 15px;
+}
+.comments pre {
+    padding: 0;
+    margin: 0;
+}
